@@ -19,5 +19,13 @@ const real_another_array = another_array.flat(Infinity)
 
 console.log(real_another_array);
 
-console.log(Array.isArray("Mukesh"));
-console.log(Array.from("Mukesh"));
+// console.log(Array.isArray("Mukesh"));
+// console.log(Array.from("Mukesh"));
+
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+// let arr = [10,40,20,60,24,19];
+
+// teat =arr.sort();
+
+// console.log(teat);
